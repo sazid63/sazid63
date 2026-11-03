@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:042F3A,70:0B1B35,100:170A2A&height=220&section=header&text=SAZID63%20%2F%2F%20SECURITY%20LAB&font=Orbitron&fontSize=32&fontColor=00F5D4&animation=twinkling&fontAlignY=35&desc=CYBERSECURITY%20%7C%20OSINT%20%7C%20SECURITY%20TOOLING&descAlignY=61&descSize=14" width="100%" alt="Animated dark navy cyberpunk banner with teal and purple accents" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:042F3A,70:0B1B35,100:170A2A&height=220&section=header&text=SAZID63&font=Orbitron&fontSize=32&fontColor=00F5D4&animation=twinkling&fontAlignY=35&desc=CYBERSECURITY%20%7C%20OSINT%20%7C%20SECURITY%20TOOLING&descAlignY=61&descSize=14" width="100%" alt="Animated dark navy cyberpunk banner with teal and purple accents" />
 
 <a href="https://github.com/sazid63">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=18&duration=2400&pause=700&color=00F5D4&center=true&vCenter=true&width=780&lines=%5B+SECURE+CHANNEL+ESTABLISHED+%5D;%3E+CYBERSECURITY+%2F%2F+OSINT+%2F%2F+SECURITY+TOOLS;%3E+ANALYZE.+BUILD.+DEFEND.;%3E+AUTHORIZED+RESEARCH+ONLY." alt="Animated cybersecurity terminal intro in Roboto Mono" />
