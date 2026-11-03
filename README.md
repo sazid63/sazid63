@@ -51,13 +51,9 @@ I’m **Sazid**, a cybersecurity-focused developer interested in practical secur
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sazid63&theme=github-compact&bg_color=030508&color=00FF66&line=FF304F&point=FFFFFF&area_color=14213D&area=true&hide_border=true&custom_title=DAILY%20CONTRIBUTIONS" alt="XY line graph of sazid63 daily GitHub contributions by date" />
+[![Daily GitHub contributions by date for sazid63](https://github-readme-activity-graph.vercel.app/graph?username=sazid63&bg_color=030508&color=00FF66&line=FF304F&point=FFFFFF&area_color=14213D&area=true&hide_border=true&height=300&custom_title=DAILY%20CONTRIBUTIONS)](https://github.com/sazid63)
 
-<br />
-
-<a href="https://github.com/sazid63">
-  <img src="https://ghchart.rshah.org/00FF66/sazid63" alt="GitHub contribution calendar for sazid63" />
-</a>
+[![GitHub contribution calendar for sazid63](https://ghchart.rshah.org/00FF66/sazid63)](https://github.com/sazid63)
 
 </div>
 
