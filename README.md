@@ -55,10 +55,10 @@ I’m **Sazid**, a cybersecurity-focused developer interested in practical secur
 
 ## Principles
 
-- 🔐 Security research and testing should be authorized and responsible.
-- 🧰 Build practical tools that make complex workflows easier to use.
-- 🧭 Prefer local-first, transparent, and privacy-conscious designs.
-- 🌱 Keep learning, building, and improving.
+- `[SEC]` Security research and testing should be authorized and responsible.
+- `[BUILD]` Create practical tools that make complex workflows easier to use.
+- `[PRIVACY]` Prefer local-first, transparent, privacy-conscious designs.
+- `[LEARN]` Keep learning, building, and improving.
 
 ## Connect
 
