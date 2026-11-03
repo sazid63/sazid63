@@ -54,7 +54,9 @@ I’m **Sazid**, a cybersecurity-focused developer interested in practical secur
 
 ## Connect
 
+- LinkedIn: [@sajid-hossain-386149236](https://www.linkedin.com/in/sajid-hossain-386149236/)
 - Hugging Face: [@sazid63](https://huggingface.co/sazid63)
+- GitHub: [@sazid63](https://github.com/sazid63)
 - Explore my repositories: [github.com/sazid63?tab=repositories](https://github.com/sazid63?tab=repositories)
 
 <div align="center">
