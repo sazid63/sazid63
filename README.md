@@ -18,7 +18,7 @@
 
 ## Who_Am_I
 
-I’m **Sazid**, a cybersecurity-focused developer interested in practical security tooling, OSINT, and making powerful tools easier to use. I build open-source projects that bring security workflows together—from a Kali-style Windows workbench powered by WSL2 to local-first OSINT applications. My work also explores AI-assisted workflows with guardrails and desktop software. I believe useful security tools should be approachable, transparent, and used responsibly.
+A cybersecurity-focused developer interested in practical security tooling, OSINT, and making powerful tools easier to use. I build open-source projects that bring security workflows together—from a Kali-style Windows workbench powered by WSL2 to local-first OSINT applications. My work also explores AI-assisted workflows with guardrails and desktop software. I believe useful security tools should be approachable, transparent, and used responsibly.
 
 ## Featured_Work
 
