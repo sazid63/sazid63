@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Digital_rain_animation_big_letters_green_and_white.gif" width="100%" alt="Animated falling digital-rain code" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:00F5D4,100:7B2CFF&height=190&section=header&text=SAZID63%20%2F%2F%20SECURITY&font=Orbitron&fontSize=38&fontColor=E6FCFF&animation=fadeIn&fontAlignY=35&desc=Building%20tools%20for%20a%20safer%20digital%20world&descAlignY=58&descSize=16" width="100%" alt="Animated cyberpunk SAZID63 security banner" />
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=105&text=SAZID63&font=Share%20Tech%20Mono&fontSize=64&fontColor=00D9FF&animation=twinkling" width="100%" alt="SAZID63 cyberpunk title" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2200&pause=650&color=00D9FF&center=true&vCenter=true&width=800&lines=%5B+SECURE+CHANNEL+ESTABLISHED+%5D;%3E+CYBERSECURITY+%2F%2F+OSINT+%2F%2F+SECURITY+TOOLS;%3E+ANALYZE.+BUILD.+DEFEND.;%3E+AUTHORIZED+RESEARCH+ONLY." alt="Animated cyberpunk terminal text" />
+<a href="https://github.com/sazid63">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=720&lines=Cybersecurity+%7C+OSINT+%7C+Security+Tooling;Exploring+systems.+Building+useful+tools.;Curiosity+is+part+of+the+threat+model." alt="Animated cybersecurity introduction" />
+</a>
 
 <br />
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-39FF14?style=for-the-badge&labelColor=07111B" alt="System online" />
-<img src="https://img.shields.io/badge/FOCUS-SECURITY-FF304F?style=for-the-badge&labelColor=07111B" alt="Security focus" />
-<img src="https://img.shields.io/badge/MODE-OPEN_SOURCE-00D9FF?style=for-the-badge&labelColor=07111B" alt="Open source mode" />
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5D4?style=for-the-badge&labelColor=050816" alt="System online" />
+<img src="https://img.shields.io/badge/FOCUS-SECURITY-FF2E97?style=for-the-badge&labelColor=050816" alt="Security focus" />
+<img src="https://img.shields.io/badge/MODE-OPEN_SOURCE-7B2CFF?style=for-the-badge&labelColor=050816" alt="Open source mode" />
 
 </div>
 
@@ -18,59 +18,57 @@
 
 ## Who_Am_I
 
-I’m **Sazid**, a cybersecurity-focused developer building practical tools for security workflows and OSINT. My projects include local-first OSINT applications, a Windows security workbench powered by WSL2, and tools for more responsible AI-assisted development. I’m interested in making technical workflows useful and approachable while keeping privacy, transparency, and authorized use in mind.
+I’m **Sazid**, a cybersecurity-focused developer interested in practical security tooling, OSINT, and making powerful tools easier to use. I build open-source projects that bring security workflows together—from a Kali-style Windows workbench powered by WSL2 to local-first OSINT applications. My work also explores AI-assisted workflows with guardrails and desktop software. I believe useful security tools should be approachable, transparent, and used responsibly.
 
 ## Featured_Work
 
-| Project | Description |
+| Project | What it does |
 |---|---|
-| [**KaliDesk**](https://github.com/sazid63/KaliDesk) | A Windows security workbench that runs Linux security tools in a private WSL2 distribution, with a desktop GUI and optional AI assistance. |
+| [**KaliDesk**](https://github.com/sazid63/KaliDesk) | A Windows security workbench that runs Linux security tools inside a private WSL2 distribution, with a desktop GUI and optional AI assistance. |
 | [**OSINT-Toolkit**](https://github.com/sazid63/OSINT-Toolkit) | A local, open-source OSINT desktop toolkit for Windows, with educational workflows and guardrailed AI support. |
 | [**OSINT-Workstation**](https://github.com/sazid63/OSINT-Workstation) | A local-first OSINT environment combining services, parallel collectors, and a graph/report pipeline. |
-| [**Opencode-Shield**](https://github.com/sazid63/Opencode-Shield) | A curated cybersecurity environment with MCPs, guardrail plugins, and review skills. |
+| [**Opencode-Shield**](https://github.com/sazid63/Opencode-Shield) | A curated cybersecurity environment of MCPs, guardrail plugins, and review skills. |
 | [**Copiale-Translator**](https://github.com/sazid63/Copiale-Translator) | A dependency-free Python tool for encoding and decoding the historical Copiale cipher. |
 
 ## Toolbox
 
-**Languages**
+**Languages & frameworks**
 
-![Python](https://img.shields.io/badge/PYTHON-07111B?style=for-the-badge&logo=python&logoColor=39FF14)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-07111B?style=for-the-badge&logo=javascript&logoColor=FF304F)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-07111B?style=for-the-badge&logo=typescript&logoColor=00D9FF)
+![Python](https://img.shields.io/badge/Python-050816?style=for-the-badge&logo=python&logoColor=00F5D4)
+![JavaScript](https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-050816?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
-**Areas of interest**
+**Areas I explore**
 
-![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-07111B?style=for-the-badge&logo=hackthebox&logoColor=39FF14)
-![OSINT](https://img.shields.io/badge/OSINT-07111B?style=for-the-badge&logo=opensearch&logoColor=FF304F)
-![Linux and WSL2](https://img.shields.io/badge/LINUX%20%2F%20WSL2-07111B?style=for-the-badge&logo=linux&logoColor=00D9FF)
-![Open Source](https://img.shields.io/badge/OPEN%20SOURCE-07111B?style=for-the-badge&logo=github&logoColor=39FF14)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-050816?style=for-the-badge&logo=hackthebox&logoColor=00F5D4)
+![OSINT](https://img.shields.io/badge/OSINT-050816?style=for-the-badge&logo=opensearch&logoColor=FF2E97)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20WSL2-050816?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Open Source](https://img.shields.io/badge/Open%20Source-050816?style=for-the-badge&logo=github&logoColor=E6FCFF)
 
-## Activity_Graph
+## GitHub Activity
 
 <div align="center">
 
-[![Contribution activity graph](https://github-readme-activity-graph-git-masterrstaa-rickstaa.vercel.app/graph?username=sazid63&bg_color=07111B&color=00D9FF&line=FF304F&point=39FF14&area=true&hide_border=true&custom_title=SAZID63%20%2F%2F%20CONTRIBUTION%20ACTIVITY)](https://github.com/sazid63)
+[![GitHub contribution activity for sazid63](https://ghchart.rshah.org/00F5D4/sazid63)](https://github.com/sazid63)
 
 </div>
 
 ## Principles
 
-```text
-[+] Research and testing should be authorized.
-[+] Build practical tools that make complex workflows easier.
-[+] Prefer local-first, transparent, privacy-conscious designs.
-[+] Keep learning // Keep building // Improve the signal.
-```
+- 🔐 Security research and testing should be authorized and responsible.
+- 🧰 Build practical tools that make complex workflows easier to use.
+- 🧭 Prefer local-first, transparent, and privacy-conscious designs.
+- 🌱 Keep learning, building, and improving.
 
 ## Connect
 
 - GitHub: [@sazid63](https://github.com/sazid63)
-- Repositories: [github.com/sazid63?tab=repositories](https://github.com/sazid63?tab=repositories)
+- Explore my repositories: [github.com/sazid63?tab=repositories](https://github.com/sazid63?tab=repositories)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,45:FF304F,100:07111B&height=105&section=footer&animation=twinkling" width="100%" alt="Animated blue and red cyberpunk footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,50:00F5D4,100:050816&height=100&section=footer&animation=twinkling" width="100%" alt="Animated neon cyberpunk footer" />
 
-<sub><code>END OF TRANSMISSION // BUILD RESPONSIBLY</code></sub>
+<sub>Stay curious. Build responsibly. Secure what matters.</sub>
 
 </div>
