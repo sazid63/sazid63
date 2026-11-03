@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:00F5D4,100:7B2CFF&height=190&section=header&text=SAZID63%20%2F%2F%20SECURITY&font=Orbitron&fontSize=38&fontColor=E6FCFF&animation=fadeIn&fontAlignY=35&desc=Building%20tools%20for%20a%20safer%20digital%20world&descAlignY=58&descSize=16" width="100%" alt="Animated cyberpunk SAZID63 security banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,50:FF2E4C,100:00FF66&height=190&section=header&text=SAZID63%20%2F%2F%20SECURITY&font=Orbitron&fontSize=38&fontColor=00FF66&animation=fadeIn&fontAlignY=35&desc=Building%20tools%20for%20a%20safer%20digital%20world&descAlignY=58&descSize=16" width="100%" alt="Animated SAZID63 header in neon green and red" />
 
 <a href="https://github.com/sazid63">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=720&lines=Cybersecurity+%7C+OSINT+%7C+Security+Tooling;Exploring+systems.+Building+useful+tools.;Curiosity+is+part+of+the+threat+model." alt="Animated cybersecurity introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=720&lines=Cybersecurity+%7C+OSINT+%7C+Security+Tooling;Exploring+systems.+Building+useful+tools.;Curiosity+is+part+of+the+threat+model." alt="Animated cybersecurity introduction in neon green" />
 </a>
 
 <br />
@@ -45,11 +45,13 @@ I’m **Sazid**, a cybersecurity-focused developer interested in practical secur
 ![Linux](https://img.shields.io/badge/Linux%20%2F%20WSL2-050816?style=for-the-badge&logo=linux&logoColor=7B2CFF)
 ![Open Source](https://img.shields.io/badge/Open%20Source-050816?style=for-the-badge&logo=github&logoColor=00F5D4)
 
-## GitHub Activity — X/Y Commit Graph
+## GitHub Contributions — X/Y Graph
+
+The chart plots contribution activity over time: **X-axis = date**, **Y-axis = daily contributions**. It is rendered as a line/area graph from GitHub activity data.
 
 <div align="center">
 
-[![X/Y graph of GitHub commit activity over time for sazid63](https://github-readme-activity-graph.vercel.app/graph?username=sazid63&bg_color=050816&color=E6FCFF&line=FF2E4C&point=00F5D4&area_color=7B2CFF&area=true&hide_border=false&custom_title=COMMITS%20OVER%20TIME%20%7C%20X%3A%20DATE%20%7C%20Y%3A%20COMMITS)](https://github.com/sazid63)
+[![Daily GitHub contributions over time for sazid63: X-axis date, Y-axis contribution count](https://github-readme-activity-graph.vercel.app/graph?username=sazid63&bg_color=050816&color=E6FCFF&line=FF2E4C&point=00F5D4&area_color=7B2CFF&area=true&hide_border=false&custom_title=DAILY%20CONTRIBUTIONS%20%7C%20X%3A%20DATE%20%7C%20Y%3A%20CONTRIBUTIONS)](https://github.com/sazid63)
 
 </div>
 
