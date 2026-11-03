@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,50:FF2E4C,100:00FF66&height=190&section=header&text=SAZID63%20%2F%2F%20SECURITY&font=Orbitron&fontSize=38&fontColor=00FF66&animation=fadeIn&fontAlignY=35&desc=Building%20tools%20for%20a%20safer%20digital%20world&descAlignY=58&descSize=16" width="100%" alt="Animated SAZID63 header in neon green and red" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030508,30:071A0D,65:14213D,100:FF304F&height=220&section=header&text=SAZID63%20%2F%2F%20SECURITY%20LAB&font=Orbitron&fontSize=32&fontColor=39FF14&animation=twinkling&fontAlignY=35&desc=CYBERSECURITY%20%7C%20OSINT%20%7C%20SECURITY%20TOOLING&descAlignY=61&descSize=14" width="100%" alt="Animated dark cyberpunk banner for SAZID63 in green, blue, and red" />
 
 <a href="https://github.com/sazid63">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=720&lines=Cybersecurity+%7C+OSINT+%7C+Security+Tooling;Exploring+systems.+Building+useful+tools.;Curiosity+is+part+of+the+threat+model." alt="Animated cybersecurity introduction in neon green" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2400&pause=700&color=39FF14&center=true&vCenter=true&width=780&lines=%5B+SECURE+CHANNEL+ESTABLISHED+%5D;%3E+CYBERSECURITY+%2F%2F+OSINT+%2F%2F+SECURITY+TOOLS;%3E+ANALYZE.+BUILD.+DEFEND.;%3E+AUTHORIZED+RESEARCH+ONLY." alt="Animated cybersecurity terminal intro" />
 </a>
 
 <br />
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5D4?style=for-the-badge&labelColor=050816" alt="System online" />
-<img src="https://img.shields.io/badge/FOCUS-SECURITY-FF2E4C?style=for-the-badge&labelColor=050816" alt="Security focus" />
-<img src="https://img.shields.io/badge/MODE-OPEN_SOURCE-7B2CFF?style=for-the-badge&labelColor=050816" alt="Open source mode" />
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF66?style=for-the-badge&labelColor=030508" alt="System online" />
+<img src="https://img.shields.io/badge/FOCUS-SECURITY-FF304F?style=for-the-badge&labelColor=030508" alt="Security focus" />
+<img src="https://img.shields.io/badge/MODE-OPEN_SOURCE-00FF66?style=for-the-badge&labelColor=030508" alt="Open source mode" />
 
 </div>
 
@@ -34,24 +34,30 @@ I’m **Sazid**, a cybersecurity-focused developer interested in practical secur
 
 **Languages & frameworks**
 
-![Python](https://img.shields.io/badge/Python-050816?style=for-the-badge&logo=python&logoColor=00F5D4)
-![JavaScript](https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=FF2E4C)
-![TypeScript](https://img.shields.io/badge/TypeScript-050816?style=for-the-badge&logo=typescript&logoColor=7B2CFF)
+![Python](https://img.shields.io/badge/Python-030508?style=for-the-badge&logo=python&logoColor=00FF66)
+![JavaScript](https://img.shields.io/badge/JavaScript-030508?style=for-the-badge&logo=javascript&logoColor=FF304F)
+![TypeScript](https://img.shields.io/badge/TypeScript-030508?style=for-the-badge&logo=typescript&logoColor=14213D)
 
 **Areas I explore**
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-050816?style=for-the-badge&logo=hackthebox&logoColor=00F5D4)
-![OSINT](https://img.shields.io/badge/OSINT-050816?style=for-the-badge&logo=opensearch&logoColor=FF2E4C)
-![Linux](https://img.shields.io/badge/Linux%20%2F%20WSL2-050816?style=for-the-badge&logo=linux&logoColor=7B2CFF)
-![Open Source](https://img.shields.io/badge/Open%20Source-050816?style=for-the-badge&logo=github&logoColor=00F5D4)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-030508?style=for-the-badge&logo=hackthebox&logoColor=00FF66)
+![OSINT](https://img.shields.io/badge/OSINT-030508?style=for-the-badge&logo=opensearch&logoColor=FF304F)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20WSL2-030508?style=for-the-badge&logo=linux&logoColor=00FF66)
+![Open Source](https://img.shields.io/badge/Open%20Source-030508?style=for-the-badge&logo=github&logoColor=FF304F)
 
-## GitHub Contributions — X/Y Graph
+## GitHub Activity
 
-The chart plots contribution activity over time: **X-axis = date**, **Y-axis = daily contributions**. It is rendered as a line/area graph from GitHub activity data.
+**X-axis: date · Y-axis: daily contributions**
 
 <div align="center">
 
-[![Daily GitHub contributions over time for sazid63: X-axis date, Y-axis contribution count](https://github-readme-activity-graph.vercel.app/graph?username=sazid63&bg_color=050816&color=E6FCFF&line=FF2E4C&point=00F5D4&area_color=7B2CFF&area=true&hide_border=false&custom_title=DAILY%20CONTRIBUTIONS%20%7C%20X%3A%20DATE%20%7C%20Y%3A%20CONTRIBUTIONS)](https://github.com/sazid63)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sazid63&theme=github-compact&bg_color=030508&color=00FF66&line=FF304F&point=FFFFFF&area_color=14213D&area=true&hide_border=true&custom_title=DAILY%20CONTRIBUTIONS" alt="XY line graph of sazid63 daily GitHub contributions by date" />
+
+<br />
+
+<a href="https://github.com/sazid63">
+  <img src="https://ghchart.rshah.org/00FF66/sazid63" alt="GitHub contribution calendar for sazid63" />
+</a>
 
 </div>
 
@@ -69,7 +75,7 @@ The chart plots contribution activity over time: **X-axis = date**, **Y-axis = d
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,50:00F5D4,100:050816&height=100&section=footer&animation=twinkling" width="100%" alt="Animated neon cyberpunk footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF304F,50:071A0D,100:030508&height=115&section=footer&animation=twinkling" width="100%" alt="Animated dark footer in red and green cyberpunk colors" />
 
 <sub>Stay curious. Build responsibly. Secure what matters.</sub>
 
