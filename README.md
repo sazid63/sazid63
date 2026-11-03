@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:00F5D4,100:7B2CFF&height=190&section=header&text=SAZID63%20%2F%2F%20SECURITY&font=Orbitron&fontSize=38&fontColor=E6FCFF&animation=fadeIn&fontAlignY=35&desc=Building%20tools%20for%20a%20safer%20digital%20world&descAlignY=58&descSize=16" width="100%" alt="Animated cyberpunk SAZID63 security banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3B5C,33:39FF88,66:3BA3FF,100:FF3B5C&height=190&section=header&text=SAZID63%20%2F%2F%20SECURITY&font=Orbitron&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Building%20tools%20for%20a%20safer%20digital%20world&descAlignY=58&descSize=16" width="100%" alt="Animated cyberpunk SAZID63 banner with red, green, and blue neon" />
 
 <a href="https://github.com/sazid63">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=720&lines=Cybersecurity+%7C+OSINT+%7C+Security+Tooling;Exploring+systems.+Building+useful+tools.;Curiosity+is+part+of+the+threat+model." alt="Animated cybersecurity introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=39FF88&center=true&vCenter=true&width=720&lines=Cybersecurity+%7C+OSINT+%7C+Security+Tooling;Exploring+systems.+Building+useful+tools.;Curiosity+is+part+of+the+threat+model." alt="Animated cybersecurity introduction" />
 </a>
 
 <br />
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5D4?style=for-the-badge&labelColor=050816" alt="System online" />
-<img src="https://img.shields.io/badge/FOCUS-SECURITY-FF2E97?style=for-the-badge&labelColor=050816" alt="Security focus" />
-<img src="https://img.shields.io/badge/MODE-OPEN_SOURCE-7B2CFF?style=for-the-badge&labelColor=050816" alt="Open source mode" />
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-39FF88?style=for-the-badge&labelColor=050816" alt="System online" />
+<img src="https://img.shields.io/badge/FOCUS-SECURITY-FF3B5C?style=for-the-badge&labelColor=050816" alt="Security focus" />
+<img src="https://img.shields.io/badge/MODE-OPEN_SOURCE-3BA3FF?style=for-the-badge&labelColor=050816" alt="Open source mode" />
 
 </div>
 
@@ -34,22 +34,22 @@ I’m **Sazid**, a cybersecurity-focused developer interested in practical secur
 
 **Languages & frameworks**
 
-![Python](https://img.shields.io/badge/Python-050816?style=for-the-badge&logo=python&logoColor=00F5D4)
-![JavaScript](https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-050816?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-050816?style=for-the-badge&logo=python&logoColor=39FF88)
+![JavaScript](https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=FF3B5C)
+![TypeScript](https://img.shields.io/badge/TypeScript-050816?style=for-the-badge&logo=typescript&logoColor=3BA3FF)
 
 **Areas I explore**
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-050816?style=for-the-badge&logo=hackthebox&logoColor=00F5D4)
-![OSINT](https://img.shields.io/badge/OSINT-050816?style=for-the-badge&logo=opensearch&logoColor=FF2E97)
-![Linux](https://img.shields.io/badge/Linux%20%2F%20WSL2-050816?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Open Source](https://img.shields.io/badge/Open%20Source-050816?style=for-the-badge&logo=github&logoColor=E6FCFF)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-050816?style=for-the-badge&logo=hackthebox&logoColor=39FF88)
+![OSINT](https://img.shields.io/badge/OSINT-050816?style=for-the-badge&logo=opensearch&logoColor=FF3B5C)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20WSL2-050816?style=for-the-badge&logo=linux&logoColor=3BA3FF)
+![Open Source](https://img.shields.io/badge/Open%20Source-050816?style=for-the-badge&logo=github&logoColor=39FF88)
 
 ## GitHub Activity
 
 <div align="center">
 
-[![GitHub contribution activity for sazid63](https://ghchart.rshah.org/00F5D4/sazid63)](https://github.com/sazid63)
+[![GitHub activity graph for sazid63](https://github-readme-activity-graph.vercel.app/graph?username=sazid63&bg_color=050816&color=EAFBFF&line=FF3B5C&point=39FF88&area_color=3BA3FF&area=true&hide_border=true&custom_title=GITHUB%20ACTIVITY%20%2F%2F%20SAZID63)](https://github.com/sazid63)
 
 </div>
 
@@ -67,7 +67,7 @@ I’m **Sazid**, a cybersecurity-focused developer interested in practical secur
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,50:00F5D4,100:050816&height=100&section=footer&animation=twinkling" width="100%" alt="Animated neon cyberpunk footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3BA3FF,50:39FF88,100:FF3B5C&height=100&section=footer&animation=twinkling" width="100%" alt="Animated red, green, and blue cyberpunk footer" />
 
 <sub>Stay curious. Build responsibly. Secure what matters.</sub>
 
