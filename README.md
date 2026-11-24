@@ -13,7 +13,7 @@
 
 ## About
 
-I'm a student at Bangladesh University of Engineering & Technology (BUET) and I build software where security, AI and automation meet. Most of my work is practical tooling: making security workflows usable on Windows, keeping OSINT and monitoring local-first, and putting guardrails around AI-assisted development.
+I'm based in Dhaka with Bangladesh University of Engineering & Technology (BUET), and I build software where security, AI and automation meet. Most of my work is practical tooling: making security workflows usable on Windows, keeping OSINT and monitoring local-first, and putting guardrails around AI-assisted development.
 
 I also write about AI and the internet on Medium, with stories published in *Towards AI*.
 
