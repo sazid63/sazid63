@@ -136,9 +136,8 @@ Most of what I ship sits where **security, AI and automation** meet:
 
 ## `> tail -f ~/medium/latest.log`
 
-<!-- BLOG-POST-LIST:START -->
-- [October 2026: The Month AI Went Wild, and the Internet Became the New Wild West](https://pub.towardsai.net/october-2026-the-month-ai-went-wild-and-the-internet-became-the-new-wild-west-304cb7f71383) <sub>· Nov 16, 2026</sub>
-- [Inside Moltbook: What a Social Network for AI Agents Really Tells Us](https://pub.towardsai.net/inside-moltbook-what-a-social-network-for-ai-agents-really-tells-us-00beea633946) <sub>· Nov 13, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [October 2026: The Month AI Went Wild — And the Internet Became the New Wild West](https://pub.towardsai.net/october-2026-the-month-ai-went-wild-and-the-internet-became-the-new-wild-west-304cb7f71383?source=rss-e6d8f75b5a5b------2) <sub>· Nov 16, 2026</sub>
+- [Inside Moltbook: What a Social Network for AI Agents Really Tells Us](https://pub.towardsai.net/inside-moltbook-what-a-social-network-for-ai-agents-really-tells-us-00beea633946?source=rss-e6d8f75b5a5b------2) <sub>· Nov 13, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>↻ Auto-updated from Medium by a GitHub Action.</sub>
