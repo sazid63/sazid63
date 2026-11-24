@@ -13,9 +13,9 @@
 
 ## About
 
-I'm based in Dhaka with Bangladesh University of Engineering & Technology (BUET), and I build software where security, AI and automation meet. Most of my work is practical tooling: making security workflows usable on Windows, keeping OSINT and monitoring local-first, and putting guardrails around AI-assisted development.
+Based in Dhaka and affiliated with Bangladesh University of Engineering & Technology (BUET), Sajid builds software where security, AI and automation meet. The work is mostly practical tooling: making security workflows usable on Windows, keeping OSINT and monitoring local-first, and putting guardrails around AI-assisted development.
 
-I also write about AI and the internet on Medium, with stories published in *Towards AI*.
+Sajid also writes about AI and the internet on Medium, with stories published in *Towards AI*.
 
 <img src="./assets/terminal.svg" width="100%" alt="Terminal showing whoami output and recent projects" />
 
@@ -112,6 +112,6 @@ Recent stories on [Medium](https://medium.com/@sajidhossain04):
 
 ## Contact
 
-The best way to reach me is [LinkedIn](https://www.linkedin.com/in/sajid-hossain-386149236/). More of my work is on my [portfolio](https://sazid63.netlify.app), [Hugging Face](https://huggingface.co/sazid63) and [Medium](https://medium.com/@sajidhossain04).
+The best way to reach Sajid is [LinkedIn](https://www.linkedin.com/in/sajid-hossain-386149236/). More of my work is on my [portfolio](https://sazid63.netlify.app), [Hugging Face](https://huggingface.co/sazid63) and [Medium](https://medium.com/@sajidhossain04).
 
 <sub>Security research shown here is for authorized testing and education.</sub>
