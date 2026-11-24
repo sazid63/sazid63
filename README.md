@@ -1,167 +1,117 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:030712,35:042F3A,70:0B1B35,100:170A2A&height=260&section=header&text=SAZID63&font=Orbitron&fontSize=72&fontColor=00F5D4&animation=fadeIn&fontAlignY=42&desc=AI%20%2B%20Automation%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Cryptography%20%E2%80%A2%20Software%20%2B%20Web&descAlignY=64&descSize=16&stroke=8B5CF6&strokeWidth=1" width="100%" alt="Animated SAZID63 banner" />
-
-<a href="https://github.com/sazid63">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&width=820&height=40&lines=%5B+SECURE+CHANNEL+ESTABLISHED+%5D;%3E+Building+security+tools+for+Windows+%2B+WSL2;%3E+Local-first+OSINT+%2F%2F+home+network+SOC;%3E+AI+agents+with+guardrails+%2F%2F+automation+pipelines;%3E+Ciphers%2C+CAD+tools%2C+trading+bots%2C+games...;%3E+ANALYZE.+BUILD.+DEFEND.+SHIP." alt="Typing intro" />
-</a>
+<img src="./assets/header.svg" width="100%" alt="Sajid Hossain: security tooling, OSINT and AI-assisted automation" />
 
 <br/>
 
-<img src="./assets/badges/status.svg" alt="Building" />
-<img src="./assets/badges/base.svg" alt="BUET, Dhaka" />
-<img src="https://komarev.com/ghpvc/?username=sazid63&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge&labelColor=030712" alt="Profile views" />
-<a href="https://github.com/sazid63?tab=followers"><img src="https://img.shields.io/github/followers/sazid63?label=FOLLOWERS&style=for-the-badge&color=00F5D4&labelColor=030712&logo=github" alt="Followers" /></a>
-
-<br/><br/>
-
-<img src="./assets/terminal.svg" width="100%" alt="Animated terminal: whoami and current focus areas" />
+<a href="https://sazid63.netlify.app">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://medium.com/@sajidhossain04">Medium</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/sajid-hossain-386149236/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://huggingface.co/sazid63">Hugging Face</a>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+## About
 
-## `> whoami`
+I'm a student at Bangladesh University of Engineering & Technology (BUET) and I build software where security, AI and automation meet. Most of my work is practical tooling: making security workflows usable on Windows, keeping OSINT and monitoring local-first, and putting guardrails around AI-assisted development.
+
+I also write about AI and the internet on Medium, with stories published in *Towards AI*.
+
+<img src="./assets/terminal.svg" width="100%" alt="Terminal showing whoami output and recent projects" />
+
+## Selected work
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
-I'm **Sajid**, a builder at **BUET** who likes making powerful tools easy to use.
-Most of what I ship sits where **security, AI and automation** meet:
+**[KaliDesk](https://github.com/sazid63/KaliDesk)**<br/>
+A Kali-style security workbench for Windows. Runs real Linux tools (nmap, sqlmap, hashcat, foremost) inside a private WSL2 distribution, with a desktop GUI, on-demand tool installs and an optional AI assistant.
 
-- 🛡️ **Cybersecurity**: a Kali-style workbench for Windows, a zero-cost home-network SOC, and local-first OSINT pipelines
-- 🤖 **AI & automation**: AI-assisted dev environments with guardrails, agentic pipelines, and content autopilots
-- 🔐 **Cryptography**: decoding historical ciphers like the *Copiale* cipher
-- 🧮 **Software & web**: a calculus solver, a building-to-CAD estimator, grid trading bots, business sites, and a game or two
-- ✍️ **Writing**: I write about AI and the internet on **Medium**, published in *Towards AI*
-
-> *Security research should be authorized. Tools should be approachable. Data should stay local.*
+<sub>`Python` `WSL2` `Desktop`</sub>
 
 </td>
-<td width="42%" align="center" valign="middle">
+<td width="50%" valign="top">
 
-<img src="./assets/radar.svg" width="360" alt="Animated radar scanning focus areas" />
+**[OSINT-Workstation](https://github.com/sazid63/OSINT-Workstation)**<br/>
+A local-first, open-source OSINT environment for Windows 11. Native SearXNG and SpiderFoot services, parallel collectors, and a graph and report pipeline.
+
+<sub>`Python` `SearXNG` `SpiderFoot`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[ArchPilot](https://github.com/sazid63/ArchPilot)**<br/>
+A Windows desktop app that turns a building idea into an editable FreeCAD 3D model, real quantities and a costed bill of quantities.
+
+<sub>`Python` `FreeCAD` `Desktop`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[Opencode-Shield](https://github.com/sazid63/Opencode-Shield)**<br/>
+A curated OpenCode environment for security work: MCP servers, guardrail plugins and review skills, each with per-item attribution.
+
+<sub>`TypeScript` `MCP` `AI tooling`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Symcalc](https://github.com/sazid63/Symcalc)**<br/>
+A university-level calculus solver with interactive graphs. 21 operations, including derivatives, integrals, ODEs, Fourier and Laplace transforms.
+
+<sub>`Python` `SymPy` `Flask`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[Copiale-Translator](https://github.com/sazid63/Copiale-Translator)**<br/>
+Encodes and decodes the 18th-century Copiale cipher. Dependency-free Python with a CLI.
+
+<sub>`Python` `Cryptography` `CLI`</sub>
 
 </td>
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+Also: [NIDS-Mini](https://github.com/sazid63/NIDS-Mini-Create-Your-Own-AI), a beginner's walkthrough of building a network intrusion detection model · [GridBot](https://github.com/sazid63/GridBot), a grid trading bot for bull and bear markets · [HandOfGOD](https://github.com/sazid63/HandOfGOD), a browser game.
 
-## `> ls ~/projects --featured`
-
-<div align="center">
-
-<a href="https://github.com/sazid63/KaliDesk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sazid63&repo=KaliDesk&bg_color=030712&title_color=00F5D4&text_color=CBD5E1&icon_color=FF2E97&border_color=1E293B&description_lines_count=3" width="49%" alt="KaliDesk" /></a>
-<a href="https://github.com/sazid63/OSINT-Workstation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sazid63&repo=OSINT-Workstation&bg_color=030712&title_color=00F5D4&text_color=CBD5E1&icon_color=FF2E97&border_color=1E293B&description_lines_count=3" width="49%" alt="OSINT-Workstation" /></a>
-<a href="https://github.com/sazid63/Opencode-Shield"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sazid63&repo=Opencode-Shield&bg_color=030712&title_color=8B5CF6&text_color=CBD5E1&icon_color=00F5D4&border_color=1E293B&description_lines_count=3" width="49%" alt="Opencode-Shield" /></a>
-<a href="https://github.com/sazid63/ArchPilot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sazid63&repo=ArchPilot&bg_color=030712&title_color=8B5CF6&text_color=CBD5E1&icon_color=00F5D4&border_color=1E293B&description_lines_count=3" width="49%" alt="ArchPilot" /></a>
-<a href="https://github.com/sazid63/Symcalc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sazid63&repo=Symcalc&bg_color=030712&title_color=FF2E97&text_color=CBD5E1&icon_color=8B5CF6&border_color=1E293B&description_lines_count=3" width="49%" alt="Symcalc" /></a>
-<a href="https://github.com/sazid63/Copiale-Translator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sazid63&repo=Copiale-Translator&bg_color=030712&title_color=FF2E97&text_color=CBD5E1&icon_color=8B5CF6&border_color=1E293B&description_lines_count=3" width="49%" alt="Copiale-Translator" /></a>
-
-</div>
-
-<details>
-<summary><b>📂 More from the lab</b></summary>
-<br/>
-
-| Project | What it does |
-|---|---|
-| [**NIDS-Mini: Create Your Own AI**](https://github.com/sazid63/NIDS-Mini-Create-Your-Own-AI) | A beginner-friendly walkthrough of the whole process of building an AI model: a network intrusion detector. |
-| [**GridBot**](https://github.com/sazid63/GridBot) | A custom grid trading bot designed for both bull and bear markets. |
-| [**HandOfGOD**](https://github.com/sazid63/HandOfGOD) | A browser game for passing the time. Hurt feelings won't be reimbursed. |
-
-</details>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## `> cat stack.json`
+## Activity
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,rust,cs,kotlin,dart,html,css&theme=dark&perline=9" alt="Languages" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,tauri,flutter,docker,linux,kali,powershell,bash&theme=dark&perline=9" alt="Frameworks and platforms" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,netlify,vercel,windows,md&theme=dark&perline=8" alt="Tools" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sazid63&bg_color=0D1117&color=8B949E&line=58A6FF&point=E6EDF3&area=true&area_color=58A6FF&title_color=E6EDF3&hide_border=true&custom_title=Contributions%2C%20last%2031%20days&radius=6" width="100%" alt="Contribution graph for the last 31 days" />
+
+<img src="https://streak-stats.demolab.com?user=sazid63&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" width="49%" alt="Contribution streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=sazid63&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=58A6FF&border_color=30363D&card_width=440" width="49%" alt="GitHub stats" />
 
 <br/><br/>
 
-![Cybersecurity](./assets/badges/cybersecurity.svg)
-![OSINT](./assets/badges/osint.svg)
-![AI Agents](./assets/badges/ai-agents.svg)
-![Automation](./assets/badges/automation-n8n.svg)
-![Cryptography](./assets/badges/cryptography.svg)
-![WSL2](./assets/badges/wsl2.svg)
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## `> git log --graph --all`
-
-<div align="center">
-
-<!-- Contribution line graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sazid63&bg_color=030712&color=CBD5E1&line=00F5D4&point=FF2E97&area=true&area_color=8B5CF6&title_color=00F5D4&hide_border=true&custom_title=Contribution%20Graph&radius=8" width="100%" alt="Contribution activity line graph" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=sazid63&theme=dark&background=030712&border=1E293B&ring=00F5D4&fire=FF2E97&currStreakNum=00F5D4&sideNums=8B5CF6&currStreakLabel=00F5D4&sideLabels=CBD5E1&dates=64748B&hide_border=false" width="49%" alt="Contribution streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=sazid63&show_icons=true&include_all_commits=true&count_private=true&bg_color=030712&title_color=00F5D4&text_color=CBD5E1&icon_color=FF2E97&border_color=1E293B&ring_color=8B5CF6&rank_icon=github" width="49%" alt="GitHub stats" />
-
-<br/><br/>
-
-<!-- Animated contribution calendar (the green squares, eaten by a snake). Generated by .github/workflows/snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sazid63/sazid63/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sazid63/sazid63/output/github-snake.svg" />
-  <img alt="Animated contribution calendar with a snake eating the green squares" src="https://raw.githubusercontent.com/sazid63/sazid63/output/github-snake-dark.svg" width="100%" />
+  <img alt="Contribution calendar animation" src="https://raw.githubusercontent.com/sazid63/sazid63/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+## Writing
 
-## `> ./principles.sh`
-
-```diff
-+ [SEC]      Security research and testing should be authorized and responsible.
-+ [BUILD]    Practical tools that make complex workflows easy.
-+ [PRIVACY]  Local-first, transparent, privacy-conscious by default.
-+ [AI]       Automate the boring parts, keep a human and a guardrail in the loop.
-! [LEARN]    Keep learning. Keep shipping.
-```
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## `> tail -f ~/medium/latest.log`
+Recent stories on [Medium](https://medium.com/@sajidhossain04):
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://pub.towardsai.net/october-2026-the-month-ai-went-wild-and-the-internet-became-the-new-wild-west-304cb7f71383?source=rss-e6d8f75b5a5b------2">October 2026: The Month AI Went Wild — And the Internet Became the New Wild West</a> <sub>· Nov 16, 2026</sub></li>
+<!-- BLOG-POST-LIST:START -->
+<li><a href="https://pub.towardsai.net/october-2026-the-month-ai-went-wild-and-the-internet-became-the-new-wild-west-304cb7f71383?source=rss-e6d8f75b5a5b------2">October 2026: The Month AI Went Wild — And the Internet Became the New Wild West</a> <sub>· Nov 16, 2026</sub></li>
 <li><a href="https://pub.towardsai.net/inside-moltbook-what-a-social-network-for-ai-agents-really-tells-us-00beea633946?source=rss-e6d8f75b5a5b------2">Inside Moltbook: What a Social Network for AI Agents Really Tells Us</a> <sub>· Nov 13, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
-<sub>↻ Auto-updated from Medium by a GitHub Action.</sub>
+## Contact
 
-## `> ping --connect`
+The best way to reach me is [LinkedIn](https://www.linkedin.com/in/sajid-hossain-386149236/). More of my work is on my [portfolio](https://sazid63.netlify.app), [Hugging Face](https://huggingface.co/sazid63) and [Medium](https://medium.com/@sajidhossain04).
 
-<div align="center">
-
-<a href="https://medium.com/@sajidhossain04"><img src="./assets/badges/medium.svg" alt="Medium" /></a>
-<a href="https://www.linkedin.com/in/sajid-hossain-386149236/"><img src="./assets/badges/linkedin.svg" alt="LinkedIn" /></a>
-<a href="https://huggingface.co/sazid63"><img src="./assets/badges/hugging-face.svg" alt="Hugging Face" /></a>
-<a href="https://sazid63.netlify.app"><img src="./assets/badges/portfolio.svg" alt="Portfolio" /></a>
-<a href="https://github.com/sazid63?tab=repositories"><img src="./assets/badges/github.svg" alt="Repositories" /></a>
-
-<br/><br/>
-
-<a href="https://medium.com/@sajidhossain04">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=FF2E97&center=true&vCenter=true&width=600&lines=Read+my+latest+stories+on+Medium+%E2%86%92+%40sajidhossain04;Published+in+Towards+AI" alt="Read my stories on Medium" />
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:170A2A,50:042F3A,100:030712&height=130&section=footer&animation=twinkling" width="100%" alt="" />
-
-<sub>Stay curious. Build responsibly. Secure what matters.</sub>
-
-</div>
+<sub>Security research shown here is for authorized testing and education.</sub>
