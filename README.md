@@ -8,8 +8,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00F5D4?style=for-the-badge&labelColor=030712&logo=githubactions&logoColor=00F5D4" alt="Building" />
-<img src="https://img.shields.io/badge/BASE-BUET%20%2F%2F%20DHAKA-FF2E97?style=for-the-badge&labelColor=030712&logo=googlemaps&logoColor=FF2E97" alt="BUET, Dhaka" />
+<img src="./assets/badges/status.svg" alt="Building" />
+<img src="./assets/badges/base.svg" alt="BUET, Dhaka" />
 <img src="https://komarev.com/ghpvc/?username=sazid63&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge&labelColor=030712" alt="Profile views" />
 <a href="https://github.com/sazid63?tab=followers"><img src="https://img.shields.io/github/followers/sazid63?label=FOLLOWERS&style=for-the-badge&color=00F5D4&labelColor=030712&logo=github" alt="Followers" /></a>
 
@@ -86,12 +86,12 @@ Most of what I ship sits where **security, AI and automation** meet:
 
 <br/><br/>
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-030712?style=for-the-badge&logo=hackthebox&logoColor=00F5D4)
-![OSINT](https://img.shields.io/badge/OSINT-030712?style=for-the-badge&logo=opensearch&logoColor=FF2E97)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-030712?style=for-the-badge&logo=openaigym&logoColor=8B5CF6)
-![Automation](https://img.shields.io/badge/Automation%20%2F%20n8n-030712?style=for-the-badge&logo=n8n&logoColor=FF2E97)
-![Cryptography](https://img.shields.io/badge/Cryptography-030712?style=for-the-badge&logo=letsencrypt&logoColor=00F5D4)
-![WSL2](https://img.shields.io/badge/WSL2-030712?style=for-the-badge&logo=linux&logoColor=8B5CF6)
+![Cybersecurity](./assets/badges/cybersecurity.svg)
+![OSINT](./assets/badges/osint.svg)
+![AI Agents](./assets/badges/ai-agents.svg)
+![Automation](./assets/badges/automation-n8n.svg)
+![Cryptography](./assets/badges/cryptography.svg)
+![WSL2](./assets/badges/wsl2.svg)
 
 </div>
 
@@ -148,11 +148,11 @@ Most of what I ship sits where **security, AI and automation** meet:
 
 <div align="center">
 
-<a href="https://medium.com/@sajidhossain04"><img src="https://img.shields.io/badge/Medium-@sajidhossain04-030712?style=for-the-badge&logo=medium&logoColor=FFFFFF&labelColor=000000" alt="Medium" /></a>
-<a href="https://www.linkedin.com/in/sajid-hossain-386149236/"><img src="https://img.shields.io/badge/LinkedIn-Sajid%20Hossain-030712?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2" alt="LinkedIn" /></a>
-<a href="https://huggingface.co/sazid63"><img src="https://img.shields.io/badge/Hugging%20Face-sazid63-030712?style=for-the-badge&logo=huggingface&logoColor=000000&labelColor=FFD21E" alt="Hugging Face" /></a>
-<a href="https://sazid63.netlify.app"><img src="https://img.shields.io/badge/Portfolio-sazid63.netlify.app-030712?style=for-the-badge&logo=netlify&logoColor=FFFFFF&labelColor=00AD9F" alt="Portfolio" /></a>
-<a href="https://github.com/sazid63?tab=repositories"><img src="https://img.shields.io/badge/GitHub-All%20Repos-030712?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=8B5CF6" alt="Repositories" /></a>
+<a href="https://medium.com/@sajidhossain04"><img src="./assets/badges/medium.svg" alt="Medium" /></a>
+<a href="https://www.linkedin.com/in/sajid-hossain-386149236/"><img src="./assets/badges/linkedin.svg" alt="LinkedIn" /></a>
+<a href="https://huggingface.co/sazid63"><img src="./assets/badges/hugging-face.svg" alt="Hugging Face" /></a>
+<a href="https://sazid63.netlify.app"><img src="./assets/badges/portfolio.svg" alt="Portfolio" /></a>
+<a href="https://github.com/sazid63?tab=repositories"><img src="./assets/badges/github.svg" alt="Repositories" /></a>
 
 <br/><br/>
 
