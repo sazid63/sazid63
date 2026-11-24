@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24" role="img" aria-label="Animated neon divider">
+<style>
+@keyframes run{0%{transform:translateX(-300px)}100%{transform:translateX(900px)}}
+.pulse{animation:run 3.2s cubic-bezier(.6,0,.4,1) infinite}
+@keyframes dot{0%,100%{opacity:.25}50%{opacity:1}}
+.d{animation:dot 1.6s ease-in-out infinite}
+</style>
+<defs>
+<linearGradient id="base" x1="0" x2="1"><stop offset="0" stop-color="#00F5D4" stop-opacity="0"/><stop offset=".5" stop-color="#8B5CF6" stop-opacity=".55"/><stop offset="1" stop-color="#FF2E97" stop-opacity="0"/></linearGradient>
+<linearGradient id="hot" x1="0" x2="1"><stop offset="0" stop-color="#00F5D4" stop-opacity="0"/><stop offset=".5" stop-color="#00F5D4"/><stop offset="1" stop-color="#FF2E97" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="0" y="11" width="900" height="2" fill="url(#base)"/>
+<rect class="pulse" x="0" y="10" width="300" height="4" rx="2" fill="url(#hot)"/>
+<circle class="d" cx="440" cy="12" r="3" fill="#00F5D4"/>
+<circle class="d" cx="450" cy="12" r="3" fill="#8B5CF6" style="animation-delay:.25s"/>
+<circle class="d" cx="460" cy="12" r="3" fill="#FF2E97" style="animation-delay:.5s"/>
+</svg>
