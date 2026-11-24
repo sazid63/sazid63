@@ -104,8 +104,7 @@ Also: [NIDS-Mini](https://github.com/sazid63/NIDS-Mini-Create-Your-Own-AI), a be
 Recent stories on [Medium](https://medium.com/@sajidhossain04):
 
 <ul>
-<!-- BLOG-POST-LIST:START -->
-<li><a href="https://pub.towardsai.net/october-2026-the-month-ai-went-wild-and-the-internet-became-the-new-wild-west-304cb7f71383?source=rss-e6d8f75b5a5b------2">October 2026: The Month AI Went Wild — And the Internet Became the New Wild West</a> <sub>· Nov 16, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://pub.towardsai.net/october-2026-the-month-ai-went-wild-and-the-internet-became-the-new-wild-west-304cb7f71383?source=rss-e6d8f75b5a5b------2">October 2026: The Month AI Went Wild — And the Internet Became the New Wild West</a> <sub>· Nov 16, 2026</sub></li>
 <li><a href="https://pub.towardsai.net/inside-moltbook-what-a-social-network-for-ai-agents-really-tells-us-00beea633946?source=rss-e6d8f75b5a5b------2">Inside Moltbook: What a Social Network for AI Agents Really Tells Us</a> <sub>· Nov 13, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
