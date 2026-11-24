@@ -19,6 +19,6 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@sajidhossain04"
           max_post_count: 5
-          template: "- [$title]($url) <sub>· $date</sub>$newline"
+          template: "<li><a href=\"$url\">$title</a> <sub>· $date</sub></li>$newline"
           date_format: "mmm d, yyyy"
           commit_message: "Update latest Medium posts"
